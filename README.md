@@ -111,5 +111,9 @@ add = np.array(add)
 add1 = add % 2
 print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ```
-Output
-Results
+### Output
+![Screenshot 2025-04-12 152549](https://github.com/user-attachments/assets/b38c7326-783e-452a-9e0e-a3966920c1d1)
+![Screenshot 2025-04-12 152602](https://github.com/user-attachments/assets/d1fe5594-0a2c-49a2-a4ca-cf6167845221)
+
+### Results
+    Thus the linear block code(LBC) program is executed and the parity matrix is generated successfully.
