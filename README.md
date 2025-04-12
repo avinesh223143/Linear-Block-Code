@@ -1,4 +1,4 @@
-# Ex09 Linear-Block-Code
+# Ex 09 Linear-Block-Code
 ## Date:12/4/25
 ### Aim
     The aim of this program is to simulate linear block code(LBC),generate parity matrix and corrected codeword.
